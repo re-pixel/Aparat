@@ -39,4 +39,6 @@ function NewTable()  {
 
   NewTable();
 
-  
+  function animation(){
+    
+  }
